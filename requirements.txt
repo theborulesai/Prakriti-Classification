@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+scikit-learn
+imbalanced-learn
+pandas
+numpy
+matplotlib
+tqdm
